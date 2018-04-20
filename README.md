@@ -1,2 +1,2 @@
 # bad00-userscript
-Simple script that will help you increase 
+Tampermonkey user script for help you increase your popularity on one of the largest worlwide dating apps.
