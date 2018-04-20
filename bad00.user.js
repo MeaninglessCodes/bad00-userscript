@@ -9,9 +9,9 @@
 // @include http://*.badoo.com/*
 // @include https://*.badoo.com/*
 //
-// @downloadURL https://raw.githubusercontent.com/MeaninglessCodes/bad00-userscript/master/bad00.js
+// @downloadURL https://raw.githubusercontent.com/MeaninglessCodes/bad00-userscript/master/bad00.user.js
 // @namespace https://github.com/MeaninglessCodes/bad00-userscript
-// @updateURL https://raw.githubusercontent.com/MeaninglessCodes/bad00-userscript/master/bad00.js
+// @updateURL https://raw.githubusercontent.com/MeaninglessCodes/bad00-userscript/master/bad00.user.js
 // ==/UserScript==
 
 // ---- encounters ----
